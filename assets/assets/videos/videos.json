@@ -1,0 +1,181 @@
+{
+  "el": [
+    {
+      "id": 1,
+      "title": "Μαθηματικά Α Δημοτικού - Μέθοδος ΑΛΦΑ-Μάθημα 1 - Μετράω ως το 5",
+      "image": "el_1.jpg",
+      "url": "https://youtu.be/nzV8PY3VPJk?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 0
+    },
+    {
+      "id": 2,
+      "title": "Μαθηματικά Α Δημοτικού-Μέθοδος ΑΛΦΑ-Μάθημα 2 - Πρόσθεση ως το 5",
+      "image": "el_2.jpg",
+      "url": "https://youtu.be/eMSK4rDzgr4?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 1
+    },
+    {
+      "id": 3,
+      "title": "Μαθηματικά Α Δημοτικού-Μέθοδος ΑΛΦΑ -Μάθημα 3- Αφαίρεση ως το 5",
+      "image": "el_3.jpg",
+      "url": "https://youtu.be/3FrdwklEpHs?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 2
+    },
+    {
+      "id": 4,
+      "title": "Μαθηματικά Α Δημοτικού-Μέθοδος ΑΛΦΑ-Μάθημα 4 - Το συμπλήρωμα του 5",
+      "image": "el_4.jpg",
+      "url": "https://youtu.be/-k26v3sDjGk?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 3
+    },
+    {
+      "id": 5,
+      "title": "Μαθηματικά Α Δημοτικού-Μέθοδος ΑΛΦΑ-Μάθημα 5 -Ανάλυση αριθμών ως το 5",
+      "image": "el_5.jpg",
+      "url": "https://youtu.be/Ehi5RaZTzjk?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 4
+    },
+    {
+      "id": 6,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 6-Μετράω από το 1 ως το 10",
+      "image": "el_6.jpg",
+      "url": "https://youtu.be/8MnlctjpShc?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 5
+    },
+    {
+      "id": 7,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 7-Πρόσθεση ως το 10",
+      "image": "el_7.jpg",
+      "url": "https://youtu.be/qX2SxyRZva0?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 6
+    },
+    {
+      "id": 8,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 8-Αφαίρεση ως το 10",
+      "image": "el_8.jpg",
+      "url": "https://youtu.be/GCotMnyix38?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 7
+    },
+    {
+      "id": 9,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 9--Το συμπλήρωμα του 10",
+      "image": "el_9.jpg",
+      "url": "https://youtu.be/moJdHOwX2kc?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 8
+    },
+    {
+      "id": 10,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 10-Αναλύω τους αριθμούς ως το 10",
+      "image": "el_10.jpg",
+      "url": "https://youtu.be/KL-X8ZcX4Kg?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 9
+    },
+    {
+      "id": 11,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 11-Μετράω ως το 20",
+      "image": "el_11.jpg",
+      "url": "https://youtu.be/qWIeteggAVM?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 10
+    },
+    {
+      "id": 12,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 12- -Πρόσθεση με άθροισμα από 11 ως 15",
+      "image": "el_12.jpg",
+      "url": "https://youtu.be/M_MGNYZxCkY?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 11
+    },
+    {
+      "id": 13,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 13-Πρόσθεση με άθροισμα από 16 ως 20",
+      "image": "el_13.jpg",
+      "url": "https://youtu.be/mrWAU8ybXC8?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 12
+    },
+    {
+      "id": 14,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 14-Αφαίρεση με μειωτέο απο 11 ως 15",
+      "image": "el_14.jpg",
+      "url": "https://youtu.be/XngoYtdJE9U?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 13
+    },
+    {
+      "id": 15,
+      "title": "Μαθηματικά Α Δημοτικού -Μέθοδος ΑΛΦΑ-Μάθημα 15--Αφαίρεση με μειωτέο απο το 16 ως το 20",
+      "image": "el_15.jpg",
+      "url": "https://youtu.be/EYod9nHS25A?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 14
+    },
+    {
+      "id": 16,
+      "title": "Μαθηματικά Α Δημοτικού 1-5,1-10,1-20,ζευγάρια αριθμών,πρόσθεση και αφαίρεση",
+      "image": "el_16.jpg",
+      "url": "https://youtu.be/fGQGNBfRRhA?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 15
+    },
+    {
+      "id": 17,
+      "title": "Μαθηματικά Α Δημοτικού-Αισθητοποίηση αριθμών,των 4 αριθμητικών πράξεων,ιδιοτήτων πράξεων",
+      "image": "el_17.jpg",
+      "url": "https://youtu.be/Gp48AzdMnSA?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "title": "Μαθηματικά Α Δημοτικού-Μαθηματικά B Δημοτικού-Πρόσθεση -Αφαίρεση-Πολλαπλασιασμός-Διαίρεση",
+      "image": "el_18.jpg",
+      "url": "https://youtu.be/XqkcdDTkEpM?list=PLt9jR2xsLcSh0bFv5jwPHmwpuWlL2O2Sv",
+      "order": 17
+    }
+  ],
+  "en": [
+    {
+      "id": 19,
+      "title": "Math, Addition,Subtraction,Multiplication,Division,1st&2nd grade",
+      "image": "en_1.jpg",
+      "url": "https://youtu.be/VHRRuNbYE98?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 0
+    },
+    {
+      "id": 20,
+      "title": "Math,Addition,Subtraction , 1st grade",
+      "image": "en_2.jpg",
+      "url": "https://youtu.be/DkZAQLi6UYE?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 1
+    },
+    {
+      "id": 21,
+      "title": "Matematicas en primer grado 1-suma-resta -hasta 5,10,20",
+      "image": "en_3.jpg",
+      "url": "https://youtu.be/Me21EQ1BOGY?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 2
+    },
+    {
+      "id": 22,
+      "title": "Matematicas en primer grado 2-Suma - Resta-Multiplicación - División",
+      "image": "en_4.jpg",
+      "url": "https://youtu.be/Sy81Hj5Bdfg?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 3
+    },
+    {
+      "id": 23,
+      "title": "Математика для 1 класса-Сложение-Вычитание- Умножени -Деление-Счеты",
+      "image": "en_5.jpg",
+      "url": "https://youtu.be/H4uYLjfcw2o?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 4
+    },
+    {
+      "id": 24,
+      "title": "Математика для 1 класса-Сложение-Вычитание до 5,до 10,до 20",
+      "image": "en_6.jpg",
+      "url": "https://youtu.be/44MnSADqmxc?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 5
+    },
+    {
+      "id": 25,
+      "title": "mathematik für die erste klasse",
+      "image": "en_7.jpg",
+      "url": "https://youtu.be/cS89Jnl5Hq4?list=PLt9jR2xsLcSjDPsHco4L7NKB44gmvZ6P1",
+      "order": 6
+    }
+  ]
+}
